@@ -27,5 +27,10 @@ return [
     'ZF\Rest',
     'ZF\Rpc',
     'ZF\Versioning',
+
+    'DoctrineModule',
+    // 'DoctrineORMModule',
+    'ZF\Doctrine\QueryBuilder',
+
     'Application',
 ];
