@@ -26,6 +26,7 @@ return [
     'ZF\\Versioning',
     'DoctrineModule',
     'ZF\\Doctrine\\QueryBuilder',
+    'StatusLib',
     'Application',
     'Todos',
 ];
